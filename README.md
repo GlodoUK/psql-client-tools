@@ -1,5 +1,7 @@
 # PostgreSQL Client Containers
 
+:warning: This has been superseded by the repository glodouk/containers `psql` image. The naming scheme of that is *slightly* different.
+
 These images extract the postgres client tools out of the official postgres alpine
 images in order to minimise as much as possible.
 
